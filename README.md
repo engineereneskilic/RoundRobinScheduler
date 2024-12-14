@@ -1,6 +1,6 @@
 # Round Robin Scheduling Algorithm - C# Windows Form Application
 
-![**Pre-Accounting Automation (Image)**](roundrobinschedular.jpg)  
+![**Pre-Accounting Automation (Image)**](roundrobinschedular.JPG)  
 
 ## Project Overview
 
